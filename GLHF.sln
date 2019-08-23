@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLHF", "GLHF\GLHF.vcxproj", "{23746B03-9DE1-4F52-9E9F-6D8DDE8D87BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23746B03-9DE1-4F52-9E9F-6D8DDE8D87BC}.Debug|x64.ActiveCfg = Debug|x64
+		{23746B03-9DE1-4F52-9E9F-6D8DDE8D87BC}.Debug|x64.Build.0 = Debug|x64
+		{23746B03-9DE1-4F52-9E9F-6D8DDE8D87BC}.Release|x64.ActiveCfg = Release|x64
+		{23746B03-9DE1-4F52-9E9F-6D8DDE8D87BC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1010DC1B-EEA0-47E7-9412-FE4D1B7E4BEB}
+	EndGlobalSection
+EndGlobal

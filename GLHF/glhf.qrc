@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/GLHF">
+        <file alias="frag">Resources/fp0.frag</file>
+        <file alias="vert">Resources/vp1.vert</file>
+    </qresource>
+</RCC>
